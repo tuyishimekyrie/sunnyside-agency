@@ -111,8 +111,12 @@ header img {
   list-style-type: none;
   color: rgb(255, 255, 255);
   font: 700;
-  font-family: "Times New Roman", Times, serif;
   font-size: 23px;
+}
+.navbar li:hover {
+    color: rgba(10,0,0,.4);
+    cursor: pointer;
+    transition: all .2s ease-in-out;
 }
 .navbar .contactBtn {
   color: black;
