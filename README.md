@@ -1,5 +1,7 @@
 # Frontend Mentor - Sunnyside agency landing page solution
 
+![](./design/desktop-preview.jpg)
+
 This is a solution to the [Sunnyside agency landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
@@ -26,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/desktop-preview.jpg)
+![](./design/desktop-design.jpg)
 
 
 
@@ -53,12 +55,12 @@ Use this section to recap over some of your major learnings while working throug
 To see how you can add code snippets, see below:
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<main>Some HTML code I'm proud of</main>
 ```
 
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+.main {
+  padding: 1rem 0 0 0;
 }
 ```
 
@@ -74,4 +76,4 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Author
 
-names: Tuyishime Hope .W
+Names: Tuyishime Hope .W
