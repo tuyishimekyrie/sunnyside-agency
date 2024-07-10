@@ -446,7 +446,7 @@ header img {
 }
 .testimonials h1 {
   padding: 20px 0 20px 0;
-  font-size: 30px;
+  font-size:3rem;
   color: rgb(172, 172, 172);
 }
 .card-section {
@@ -466,15 +466,11 @@ header img {
   margin: 2em;
 }
 .card-section p {
-  font: 700;
-  font-size: 35px;
-  font-family: "Times New Roman", Times, serif;
+  font-size: 1.25rem;
   padding: 20px;
 }
 .card-section h2 {
   color: black;
-  font: 700;
-  font-family: "Times New Roman", Times, serif;
   font-size: 25px;
   padding: 20px;
 }
